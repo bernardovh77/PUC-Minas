@@ -1,2 +1,2 @@
 # PUC---Minas
-Projetos e trabalhos relacionados a PUC Minas
+Projects and tasks related to PUC Minas
