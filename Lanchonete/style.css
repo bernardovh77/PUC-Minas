@@ -1,0 +1,57 @@
+body {
+    background-color:rgb(120, 60, 30);
+    margin: 0;
+}
+#titulo {
+    background-color: rgb(255, 230, 180);
+    color: rgb(120, 60, 30);
+    font-weight: 800;
+    font-size: 26px;
+    border: 3px solid black; 
+    width: 60%;
+    height: 50px;
+    margin: 40px auto 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.preço {
+    color: green;
+    font-weight: bold;
+    font-size: 22px;
+}
+.nome {
+    font-weight: bold;
+    font-size: 20px;
+}
+.descrição {
+    color:grey;
+    font-size: 14px;
+}
+.imagem {
+    text-align: center;
+}
+table {
+    background-color: white;
+    width: 60%;
+    border: 3px solid black;
+    border-collapse: collapse;
+    margin: 40px auto 0 auto;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+td {
+    border: 1px solid black;
+    text-align: left;
+    vertical-align: middle;
+    height: 18vh;
+    padding-left: 20px;
+    width: 50%;
+
+}
+footer{
+    text-align:right;
+    color: white;
+    width: 80%;
+}
