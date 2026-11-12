@@ -221,7 +221,7 @@ class LeitorCsv { // le o arquivo e transforma cada linha em um Veiculo
     }
 }
 
-class Main {
+class q1 {
 
     public static void main(String[] args) {
         Veiculo[] veiculos = LeitorCsv.ler("/tmp/veiculos.csv");
